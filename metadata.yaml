@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1292
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Disraeli,_1st_Earl_of_Beaconsfield
 description: Literature and criticism -- Historical anecdotes -- Miscellanea.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21615#Curiosities-of-Literature-Vol.-1
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '2007-05-26'
 gutenberg_type: Text
