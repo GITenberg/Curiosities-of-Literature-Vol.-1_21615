@@ -1,0 +1,39 @@
+_repo: Curiosities-of-Literature-Vol.-1_21615
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21615-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Disraeli, Isaac
+    alias: D'Israeli, I. (Isaac)
+    birthdate: 1766
+    deathdate: 1848
+    gutenberg_agent_id: '6393'
+    url: http://www.gutenberg.org/2009/agents/6393
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_D'Israeli
+  editor:
+    agent_name: Disraeli, Benjamin, Earl of Beaconsfield
+    alias: Disraeli, B. (Benjamin), Earl of Beaconsfield
+    birthdate: 1804
+    deathdate: 1881
+    gutenberg_agent_id: '1292'
+    url: http://www.gutenberg.org/2009/agents/1292
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Disraeli,_1st_Earl_of_Beaconsfield
+description: Literature and criticism -- Historical anecdotes -- Miscellanea.
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2007-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Anecdotes'
+- !lcc 'PN'
+- !lcsh 'English literature -- History and criticism'
+- !lcsh 'Litterateurs'
+title: Curiosities of Literature, Vol. 1
+url: http://www.gutenberg.org/ebooks/21615
